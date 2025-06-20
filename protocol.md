@@ -404,7 +404,7 @@ Each message starts with a **location in Bordeaux**, typically referring to a **
 | Number | Meaning                        | Additional Data After `:`                         |
 |--------|--------------------------------|---------------------------------------------------|
 | 0      | **"I'm born"**                   | _(None)_                                      |
-| 1      | **Provide latest message IDs and an IA ID** | A list of message IDs in format: `[id1, id2, ...],IAid` |
+| 1      | **Provide latest message IDs and an AI ID** | A list of message IDs in format: `[id1, id2, ...],IAid` |
 | 2      | **"I have evolved to N"**        | The new state or level number: `N`                |
 | 3      | **"I need specific resources"**  | A list of resources and amounts: `[what: N, ...]` |
 | 4      | **"I am going to evolve"**       | The target evolution level: `N`                   |
@@ -424,3 +424,5 @@ Examples:
 - `9 : [water: 2, food: 5]` → 9 % 6 = 3 → **I need specific resources**
 
 > 🧠 Use modulo arithmetic to extract the expression, and then parse the remaining content accordingly.
+
+> The consortium behind the F.U.C.K. protocol already reserved the name F.U.C.K.Y.O.U. for the next iteration of the next protocol
