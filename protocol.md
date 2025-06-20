@@ -393,8 +393,8 @@ Each message starts with a **location in Bordeaux**, typically referring to a **
 - The expression index is **not written explicitly** in the message but is **derived** from the location.
 - The rest of the message, following a `:` (colon), contains **optional additional information**, depending on the expression.
 
->  Example : If the location is `17` and there are `6` known expressions:17 % 6 = 5  
-→ This corresponds to expression number 5: "Alive"
+>  Example : If the location is `44.87554931640625,-0.5779843330383301` we got `16` (it's Epitech Bordeaux location) and there are `6` known expressions: 17 % 6 = 4  
+→ This corresponds to expression number 4: "I am going to evolve"
 
 
 ---
