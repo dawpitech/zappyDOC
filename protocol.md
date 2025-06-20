@@ -381,7 +381,7 @@ What is the area of rectangle $ABCD = I$?
 - $K =\int _0^{\frac{\pi }{2}}\left(\frac{\ln \left(\sin \left(x\right)\right).\ln \left(\frac{e^{ix}+e^{-ix}}{2}\right)}{\tan \ \left(x\right)}\right)dx$
 
 - $S$ is the negative of the 7th prime number
-- $T =\frac{5}{3}\sum _{n=1}^{\infty }\frac{\left(-1\right)^{n+1}}{n^3\binom{2n}{n}}$
+- $T =\frac{5}{2}\sum _{n=1}^{\infty }\frac{\left(-1\right)^{n+1}}{n^3\binom{2n}{n}}$
 - $U = 20\arctan \left(\frac{1}{7}\right)$
 
 > Note: only the message going to be changed with the ceasar cipher
